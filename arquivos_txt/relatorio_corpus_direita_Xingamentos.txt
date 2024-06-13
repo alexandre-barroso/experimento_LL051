@@ -1,7 +1,7 @@
 Resumo de Xingamentos no arquivo corpus_direita_Xingamentos.csv:
 
-Número de instâncias únicas: 40
-Total de ocorrências: 4879
+Número de instâncias únicas: 54
+Total de ocorrências: 62659
 Instância mais frequente: foda
-Contagem da instância mais frequente: 1540
-Frequência de Xingamentos a cada 1000 palavras: 5.87
+Contagem da instância mais frequente: 21945
+Frequência de Xingamentos a cada 1000 palavras: 75.38

@@ -1,7 +1,7 @@
 Resumo de Abreviações no arquivo corpus_esquerda_Abreviações.csv:
 
-Número de instâncias únicas: 47
-Total de ocorrências: 21402
+Número de instâncias únicas: 77
+Total de ocorrências: 1510533
 Instância mais frequente: q
-Contagem da instância mais frequente: 6670
-Frequência de Abreviações a cada 1000 palavras: 25.75
+Contagem da instância mais frequente: 477753
+Frequência de Abreviações a cada 1000 palavras: 1817.14

@@ -1,7 +1,7 @@
 Resumo de Ênclise e Mesóclise no arquivo corpus_esquerda_Ênclise e Mesóclise.csv:
 
-Número de instâncias únicas: 20
-Total de ocorrências: 27
-Instância mais frequente: envia-lo
-Contagem da instância mais frequente: 6
-Frequência de Ênclise e Mesóclise a cada 1000 palavras: 0.03
+Número de instâncias únicas: 190
+Total de ocorrências: 392
+Instância mais frequente: dá-lhe
+Contagem da instância mais frequente: 55
+Frequência de Ênclise e Mesóclise a cada 1000 palavras: 0.47

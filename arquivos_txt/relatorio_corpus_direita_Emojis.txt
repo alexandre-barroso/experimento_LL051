@@ -1,7 +1,7 @@
 Resumo de Emojis no arquivo corpus_direita_Emojis.csv:
 
-Número de instâncias únicas: 234
-Total de ocorrências: 1293
-Instância mais frequente: 👏👏👏👏
-Contagem da instância mais frequente: 253
-Frequência de Emojis a cada 1000 palavras: 1.56
+Número de instâncias únicas: 3579
+Total de ocorrências: 748053
+Instância mais frequente: 🇧🇷
+Contagem da instância mais frequente: 188191
+Frequência de Emojis a cada 1000 palavras: 899.89
