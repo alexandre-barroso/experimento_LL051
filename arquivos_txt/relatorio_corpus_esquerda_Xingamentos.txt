@@ -1,0 +1,7 @@
+Resumo de Xingamentos no arquivo corpus_esquerda_Xingamentos.csv:
+
+Número de instâncias únicas: 25
+Total de ocorrências: 967
+Instância mais frequente: merda
+Contagem da instância mais frequente: 406
+Frequência de Xingamentos a cada 1000 palavras: 1.16
