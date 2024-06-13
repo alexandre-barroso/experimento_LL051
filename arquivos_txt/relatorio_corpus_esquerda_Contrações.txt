@@ -1,0 +1,7 @@
+Resumo de Contrações no arquivo corpus_esquerda_Contrações.csv:
+
+Número de instâncias únicas: 17
+Total de ocorrências: 54275
+Instância mais frequente: pra
+Contagem da instância mais frequente: 43365
+Frequência de Contrações a cada 1000 palavras: 65.29

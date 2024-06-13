@@ -1,0 +1,7 @@
+Resumo de Gírias no arquivo corpus_esquerda_Gírias.csv:
+
+Número de instâncias únicas: 42
+Total de ocorrências: 939
+Instância mais frequente: mano
+Contagem da instância mais frequente: 406
+Frequência de Gírias a cada 1000 palavras: 1.13

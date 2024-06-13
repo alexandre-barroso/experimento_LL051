@@ -1,0 +1,7 @@
+Resumo de Abreviações no arquivo corpus_direita_Abreviações.csv:
+
+Número de instâncias únicas: 44
+Total de ocorrências: 36838
+Instância mais frequente: vc
+Contagem da instância mais frequente: 14365
+Frequência de Abreviações a cada 1000 palavras: 44.32
