@@ -15,78 +15,78 @@ Interpretação: Um p-value significativo (geralmente p < 0.05) sugere que as di
 #### Análise intra-corpus para corpus_direita:
 
 Comparação entre Emojis e Contrações:
-Teste qui-quadrado: chi2 = 9962.1261, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 299.0000, p-value = 0.0000 (3.0427e-12)
+Teste qui-quadrado: chi2 = 10556.6420, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 3344.5000, p-value = 0.0000 (2.6728e-20)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Contrações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Contrações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Contrações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Gírias:
-Teste qui-quadrado: chi2 = 391.0920, p-value = 0.0000 (4.7880e-87)
-Teste Mann-Whitney U: U = 3575.5000, p-value = 0.0002 (1.7142e-04)
+Teste qui-quadrado: chi2 = 427.8987, p-value = 0.0000 (4.6584e-95)
+Teste Mann-Whitney U: U = 63135.0000, p-value = 0.0000 (1.6190e-31)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Gírias, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Gírias é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Gírias são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Xingamentos:
-Teste qui-quadrado: chi2 = 599.3102, p-value = 0.0000 (2.3650e-132)
-Teste Mann-Whitney U: U = 1916.5000, p-value = 0.0000 (8.0862e-13)
+Teste qui-quadrado: chi2 = 197.4106, p-value = 0.0000 (7.6721e-45)
+Teste Mann-Whitney U: U = 24498.0000, p-value = 0.0000 (3.0849e-39)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Xingamentos, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Xingamentos é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Xingamentos são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Abreviações:
-Teste qui-quadrado: chi2 = 4696.5455, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 2528.5000, p-value = 0.0000 (8.2310e-11)
+Teste qui-quadrado: chi2 = 23359.6537, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 41674.0000, p-value = 0.0000 (3.1454e-41)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 4.8972, p-value = 0.0269 (2.6901e-02)
-Teste Mann-Whitney U: U = 586.0000, p-value = 0.2554 (2.5538e-01)
+Teste qui-quadrado: chi2 = 7352.9167, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 239628.0000, p-value = 0.5404 (5.4043e-01)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Emojis e Ênclise e Mesóclise, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Emojis e Ênclise e Mesóclise não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
 
 Comparação entre Contrações e Gírias:
-Teste qui-quadrado: chi2 = 603.0860, p-value = 0.0000 (3.5693e-133)
-Teste Mann-Whitney U: U = 569.0000, p-value = 0.0001 (8.0862e-05)
+Teste qui-quadrado: chi2 = 1127.7308, p-value = 0.0000 (3.1033e-247)
+Teste Mann-Whitney U: U = 1196.5000, p-value = 0.0000 (5.5197e-06)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Gírias, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Gírias é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Gírias são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Xingamentos:
-Teste qui-quadrado: chi2 = 372.2621, p-value = 0.0000 (6.0210e-83)
-Teste Mann-Whitney U: U = 467.0000, p-value = 0.0075 (7.4732e-03)
+Teste qui-quadrado: chi2 = 1388.7241, p-value = 0.0000 (5.9253e-304)
+Teste Mann-Whitney U: U = 755.5000, p-value = 0.0005 (4.5729e-04)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Xingamentos, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Xingamentos é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Xingamentos são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Abreviações:
-Teste qui-quadrado: chi2 = 38.1163, p-value = 0.0000 (6.6652e-10)
-Teste Mann-Whitney U: U = 483.5000, p-value = 0.0269 (2.6940e-02)
+Teste qui-quadrado: chi2 = 4.1472, p-value = 0.0417 (4.1705e-02)
+Teste Mann-Whitney U: U = 965.0000, p-value = 0.0008 (8.4593e-04)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 5333.9236, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 62.0000, p-value = 0.0049 (4.9249e-03)
+Teste qui-quadrado: chi2 = 559927.5410, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 2259.0000, p-value = 0.0000 (2.2316e-15)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Gírias e Xingamentos:
-Teste qui-quadrado: chi2 = 3.6576, p-value = 0.0558 (5.5813e-02)
-Teste Mann-Whitney U: U = 591.0000, p-value = 0.0118 (1.1801e-02)
+Teste qui-quadrado: chi2 = 2.4243, p-value = 0.1195 (1.1947e-01)
+Teste Mann-Whitney U: U = 1454.5000, p-value = 0.0017 (1.7403e-03)
 # INTERPRETAÇÃO: As distribuições das frequências das categorias Gírias e Xingamentos são significativamente diferentes, mas não há uma forte associação entre elas. O teste Mann-Whitney U mostra que a frequência de uso é diferente para Gírias e Xingamentos, indicando padrões distintos de uso, enquanto o teste Qui-Quadrado não encontrou uma associação significativa entre as categorias.
 
 Comparação entre Gírias e Abreviações:
-Teste qui-quadrado: chi2 = 183.6422, p-value = 0.0000 (7.7667e-42)
-Teste Mann-Whitney U: U = 677.0000, p-value = 0.0179 (1.7890e-02)
+Teste qui-quadrado: chi2 = 1611.8305, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 2219.0000, p-value = 0.0261 (2.6116e-02)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Gírias e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Gírias e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Gírias e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Gírias e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 106.1402, p-value = 0.0000 (6.8699e-25)
-Teste Mann-Whitney U: U = 130.0000, p-value = 0.0711 (7.1114e-02)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Gírias e Ênclise e Mesóclise, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Gírias e Ênclise e Mesóclise não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
+Teste qui-quadrado: chi2 = 21743.9220, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 8229.5000, p-value = 0.0000 (4.3630e-16)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Gírias e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Gírias e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Gírias e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Xingamentos e Abreviações:
-Teste qui-quadrado: chi2 = 100.7638, p-value = 0.0000 (1.0363e-23)
-Teste Mann-Whitney U: U = 848.0000, p-value = 0.7749 (7.7487e-01)
+Teste qui-quadrado: chi2 = 1776.4154, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 2085.5000, p-value = 0.4005 (4.0046e-01)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Xingamentos e Abreviações, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Xingamentos e Abreviações não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
 
 Comparação entre Xingamentos e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 166.2893, p-value = 0.0000 (4.7828e-38)
-Teste Mann-Whitney U: U = 142.0000, p-value = 0.0106 (1.0637e-02)
+Teste qui-quadrado: chi2 = 12620.4310, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 6332.5000, p-value = 0.0000 (7.0790e-22)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Xingamentos e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Xingamentos e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Xingamentos e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Abreviações e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 1171.6181, p-value = 0.0000 (8.9856e-257)
-Teste Mann-Whitney U: U = 146.0000, p-value = 0.0267 (2.6725e-02)
+Teste qui-quadrado: chi2 = 930173.3714, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 7941.0000, p-value = 0.0000 (1.2832e-20)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Abreviações e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Abreviações e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Abreviações e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 
@@ -94,78 +94,78 @@ Teste Mann-Whitney U: U = 146.0000, p-value = 0.0267 (2.6725e-02)
 #### Análise intra-corpus para corpus_esquerda:
 
 Comparação entre Emojis e Contrações:
-Teste qui-quadrado: chi2 = 2631.3649, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 526.0000, p-value = 0.0000 (8.9496e-11)
+Teste qui-quadrado: chi2 = 25109.9660, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 3079.0000, p-value = 0.0000 (2.8168e-19)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Contrações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Contrações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Contrações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Gírias:
-Teste qui-quadrado: chi2 = 1.2999, p-value = 0.2542 (2.5423e-01)
-Teste Mann-Whitney U: U = 4664.5000, p-value = 0.0269 (2.6911e-02)
-# INTERPRETAÇÃO: As distribuições das frequências das categorias Emojis e Gírias são significativamente diferentes, mas não há uma forte associação entre elas. O teste Mann-Whitney U mostra que a frequência de uso é diferente para Emojis e Gírias, indicando padrões distintos de uso, enquanto o teste Qui-Quadrado não encontrou uma associação significativa entre as categorias.
+Teste qui-quadrado: chi2 = 580.4381, p-value = 0.0000 (3.0115e-128)
+Teste Mann-Whitney U: U = 45695.0000, p-value = 0.0000 (2.2101e-25)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Gírias, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Gírias é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Gírias são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Xingamentos:
-Teste qui-quadrado: chi2 = 12.6694, p-value = 0.0004 (3.7169e-04)
-Teste Mann-Whitney U: U = 2143.5000, p-value = 0.0002 (2.4614e-04)
+Teste qui-quadrado: chi2 = 643.9591, p-value = 0.0000 (4.6015e-142)
+Teste Mann-Whitney U: U = 24356.5000, p-value = 0.0000 (2.6213e-29)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Xingamentos, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Xingamentos é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Xingamentos são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Abreviações:
-Teste qui-quadrado: chi2 = 879.2137, p-value = 0.0000 (3.2402e-193)
-Teste Mann-Whitney U: U = 3458.5000, p-value = 0.0000 (3.5189e-09)
+Teste qui-quadrado: chi2 = 9019.6377, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 33827.5000, p-value = 0.0000 (5.4258e-26)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Emojis e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 116.8346, p-value = 0.0000 (3.1203e-27)
-Teste Mann-Whitney U: U = 3163.0000, p-value = 0.0826 (8.2596e-02)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Emojis e Ênclise e Mesóclise, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Emojis e Ênclise e Mesóclise não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
+Teste qui-quadrado: chi2 = 8645.3274, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 208198.5000, p-value = 0.0006 (6.2978e-04)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Emojis e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Emojis e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Emojis e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Gírias:
-Teste qui-quadrado: chi2 = 1592.6903, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 596.0000, p-value = 0.0000 (2.9075e-05)
+Teste qui-quadrado: chi2 = 2386.8182, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 1609.0000, p-value = 0.0000 (2.6503e-05)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Gírias, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Gírias é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Gírias são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Xingamentos:
-Teste qui-quadrado: chi2 = 762.4764, p-value = 0.0000 (7.7733e-168)
-Teste Mann-Whitney U: U = 329.5000, p-value = 0.0025 (2.4593e-03)
+Teste qui-quadrado: chi2 = 1561.6347, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 1025.0000, p-value = 0.0061 (6.0694e-03)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Xingamentos, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Xingamentos é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Xingamentos são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Abreviações:
-Teste qui-quadrado: chi2 = 62.0306, p-value = 0.0000 (3.3816e-15)
-Teste Mann-Whitney U: U = 539.0000, p-value = 0.0321 (3.2107e-02)
+Teste qui-quadrado: chi2 = 125.0744, p-value = 0.0000 (4.9022e-29)
+Teste Mann-Whitney U: U = 1223.0000, p-value = 0.0015 (1.4681e-03)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Contrações e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 11861.1344, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 315.5000, p-value = 0.0000 (1.4582e-06)
+Teste qui-quadrado: chi2 = 1174624.8970, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 4011.5000, p-value = 0.0000 (2.4812e-21)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Contrações e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Contrações e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Contrações e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Gírias e Xingamentos:
-Teste qui-quadrado: chi2 = 4.1422, p-value = 0.0418 (4.1827e-02)
-Teste Mann-Whitney U: U = 426.0000, p-value = 0.1694 (1.6943e-01)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Gírias e Xingamentos, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Gírias e Xingamentos não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
+Teste qui-quadrado: chi2 = 4.2751, p-value = 0.0387 (3.8675e-02)
+Teste Mann-Whitney U: U = 2446.0000, p-value = 0.0194 (1.9404e-02)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Gírias e Xingamentos, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Gírias e Xingamentos é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Gírias e Xingamentos são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Gírias e Abreviações:
-Teste qui-quadrado: chi2 = 381.4765, p-value = 0.0000 (5.9360e-85)
-Teste Mann-Whitney U: U = 667.0000, p-value = 0.0056 (5.6261e-03)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Gírias e Abreviações, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Gírias e Abreviações é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Gírias e Abreviações são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
+Teste qui-quadrado: chi2 = 532.0803, p-value = 0.0000 (9.9627e-118)
+Teste Mann-Whitney U: U = 3220.5000, p-value = 0.2542 (2.5421e-01)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Gírias e Abreviações, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Gírias e Abreviações não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
 
 Comparação entre Gírias e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 109.2631, p-value = 0.0000 (1.4211e-25)
-Teste Mann-Whitney U: U = 565.0000, p-value = 0.0087 (8.6691e-03)
+Teste qui-quadrado: chi2 = 26957.5110, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 14276.5000, p-value = 0.0000 (1.2779e-23)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Gírias e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Gírias e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Gírias e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Xingamentos e Abreviações:
-Teste qui-quadrado: chi2 = 149.8619, p-value = 0.0000 (1.8584e-34)
-Teste Mann-Whitney U: U = 488.0000, p-value = 0.2281 (2.2809e-01)
+Teste qui-quadrado: chi2 = 300.9142, p-value = 0.0000 (2.0826e-67)
+Teste Mann-Whitney U: U = 2793.0000, p-value = 0.3897 (3.8972e-01)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na associação entre as categorias Xingamentos e Abreviações, mas as distribuições das frequências são semelhantes. O teste Qui-Quadrado sugere que Xingamentos e Abreviações não são usadas de forma independente uma da outra, enquanto o teste Mann-Whitney U indica que a quantidade de uso é similar em termos de frequência. Isso pode significar que ambas aparecem frequentemente nos mesmos contextos, mas não necessariamente na mesma quantidade.
 
 Comparação entre Xingamentos e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 164.0382, p-value = 0.0000 (1.4839e-37)
-Teste Mann-Whitney U: U = 381.0000, p-value = 0.0006 (6.0873e-04)
+Teste qui-quadrado: chi2 = 30145.6571, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 10961.5000, p-value = 0.0000 (2.2132e-26)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Xingamentos e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Xingamentos e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Xingamentos e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 Comparação entre Abreviações e Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 2570.4592, p-value = 0.0000 (0.0000e+00)
-Teste Mann-Whitney U: U = 744.0000, p-value = 0.0001 (5.1334e-05)
+Teste qui-quadrado: chi2 = 349040.9689, p-value = 0.0000 (0.0000e+00)
+Teste Mann-Whitney U: U = 12109.5000, p-value = 0.0000 (4.6662e-24)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa entre as categorias Abreviações e Ênclise e Mesóclise, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado indica que a associação entre as categorias Abreviações e Ênclise e Mesóclise é significativa, sugerindo que a ocorrência de uma categoria não é independente da outra. O teste Mann-Whitney U mostra que a distribuição das frequências de Abreviações e Ênclise e Mesóclise são significativamente diferentes, indicando que uma categoria é usada com mais frequência ou em diferentes contextos que a outra.
 
 
@@ -174,36 +174,36 @@ Teste Mann-Whitney U: U = 744.0000, p-value = 0.0001 (5.1334e-05)
 
 
 Análise inter-corpus para a categoria Emojis:
-Teste qui-quadrado: chi2 = 171.4439, p-value = 0.0000 (3.5795e-39)
-Teste Mann-Whitney U: U = 30554.0000, p-value = 0.5234 (5.2343e-01)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na comparação de Emojis entre os dois corpora na variação das ocorrências, mas as distribuições das frequências são semelhantes. Isso sugere que, apesar das diferenças nos contextos de uso de Emojis, a quantidade total de ocorrências é similar em ambos os corpora. O teste Qui-Quadrado indica que a presença de Emojis está associada de maneira diferente nos dois corpora, enquanto o teste Mann-Whitney U mostra que as distribuições de frequência não são significativamente diferentes, indicando que a quantidade de uso de Emojis é similar.
+Teste qui-quadrado: chi2 = 100.7507, p-value = 0.0000 (1.0432e-23)
+Teste Mann-Whitney U: U = 3350850.5000, p-value = 0.0000 (3.2637e-05)
+# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na comparação de Emojis entre os dois corpora, tanto na frequência quanto na distribuição das ocorrências. Isso indica que a maneira e a frequência com que Emojis são usados diferem substancialmente entre os dois corpora. O teste Qui-Quadrado mostra que a associação entre Emojis e o corpus é forte, sugerindo que a ocorrência de Emojis está relacionada de maneira diferente em cada corpus. Já o teste Mann-Whitney U revela que a distribuição das frequências de Emojis é significativamente diferente entre os dois corpora, indicando variações na quantidade de uso em diferentes contextos ou situações.
 
 
 Análise inter-corpus para a categoria Contrações:
-Teste qui-quadrado: chi2 = 0.5191, p-value = 0.4712 (4.7123e-01)
-Teste Mann-Whitney U: U = 145.5000, p-value = 0.7454 (7.4540e-01)
+Teste qui-quadrado: chi2 = 1.1500, p-value = 0.2835 (2.8354e-01)
+Teste Mann-Whitney U: U = 219.5000, p-value = 0.5679 (5.6795e-01)
 # INTERPRETAÇÃO: Não existe uma diferença estatisticamente significativa na comparação de Contrações entre os dois corpora, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado e o teste Mann-Whitney U não encontraram diferenças significativas, indicando que Contrações é usado de maneira semelhante em termos de frequência e contexto em ambos os corpora.
 
 
 Análise inter-corpus para a categoria Gírias:
-Teste qui-quadrado: chi2 = 35.0179, p-value = 0.0000 (3.2669e-09)
-Teste Mann-Whitney U: U = 987.0000, p-value = 0.4250 (4.2500e-01)
-# INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na comparação de Gírias entre os dois corpora na variação das ocorrências, mas as distribuições das frequências são semelhantes. Isso sugere que, apesar das diferenças nos contextos de uso de Gírias, a quantidade total de ocorrências é similar em ambos os corpora. O teste Qui-Quadrado indica que a presença de Gírias está associada de maneira diferente nos dois corpora, enquanto o teste Mann-Whitney U mostra que as distribuições de frequência não são significativamente diferentes, indicando que a quantidade de uso de Gírias é similar.
+Teste qui-quadrado: chi2 = 0.8484, p-value = 0.3570 (3.5700e-01)
+Teste Mann-Whitney U: U = 3568.0000, p-value = 0.7433 (7.4333e-01)
+# INTERPRETAÇÃO: Não existe uma diferença estatisticamente significativa na comparação de Gírias entre os dois corpora, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado e o teste Mann-Whitney U não encontraram diferenças significativas, indicando que Gírias é usado de maneira semelhante em termos de frequência e contexto em ambos os corpora.
 
 
 Análise inter-corpus para a categoria Xingamentos:
-Teste qui-quadrado: chi2 = 20.5759, p-value = 0.0000 (5.7314e-06)
-Teste Mann-Whitney U: U = 610.5000, p-value = 0.1310 (1.3105e-01)
+Teste qui-quadrado: chi2 = 6.5188, p-value = 0.0107 (1.0674e-02)
+Teste Mann-Whitney U: U = 1857.5000, p-value = 0.8016 (8.0160e-01)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na comparação de Xingamentos entre os dois corpora na variação das ocorrências, mas as distribuições das frequências são semelhantes. Isso sugere que, apesar das diferenças nos contextos de uso de Xingamentos, a quantidade total de ocorrências é similar em ambos os corpora. O teste Qui-Quadrado indica que a presença de Xingamentos está associada de maneira diferente nos dois corpora, enquanto o teste Mann-Whitney U mostra que as distribuições de frequência não são significativamente diferentes, indicando que a quantidade de uso de Xingamentos é similar.
 
 
 Análise inter-corpus para a categoria Abreviações:
-Teste qui-quadrado: chi2 = 8.0473, p-value = 0.0046 (4.5571e-03)
-Teste Mann-Whitney U: U = 1073.5000, p-value = 0.7513 (7.5130e-01)
+Teste qui-quadrado: chi2 = 68.1593, p-value = 0.0000 (1.5081e-16)
+Teste Mann-Whitney U: U = 2928.5000, p-value = 0.4517 (4.5174e-01)
 # INTERPRETAÇÃO: Existe uma diferença estatisticamente significativa na comparação de Abreviações entre os dois corpora na variação das ocorrências, mas as distribuições das frequências são semelhantes. Isso sugere que, apesar das diferenças nos contextos de uso de Abreviações, a quantidade total de ocorrências é similar em ambos os corpora. O teste Qui-Quadrado indica que a presença de Abreviações está associada de maneira diferente nos dois corpora, enquanto o teste Mann-Whitney U mostra que as distribuições de frequência não são significativamente diferentes, indicando que a quantidade de uso de Abreviações é similar.
 
 
 Análise inter-corpus para a categoria Ênclise e Mesóclise:
-Teste qui-quadrado: chi2 = 0.0000, p-value = 0.9944 (9.9441e-01)
-Teste Mann-Whitney U: U = 36.0000, p-value = 0.5719 (5.7187e-01)
+Teste qui-quadrado: chi2 = 1.6585, p-value = 0.1978 (1.9781e-01)
+Teste Mann-Whitney U: U = 12969.0000, p-value = 0.3252 (3.2517e-01)
 # INTERPRETAÇÃO: Não existe uma diferença estatisticamente significativa na comparação de Ênclise e Mesóclise entre os dois corpora, tanto na frequência quanto na distribuição das ocorrências. O teste Qui-Quadrado e o teste Mann-Whitney U não encontraram diferenças significativas, indicando que Ênclise e Mesóclise é usado de maneira semelhante em termos de frequência e contexto em ambos os corpora.
